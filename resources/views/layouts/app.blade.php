@@ -79,7 +79,7 @@
     </div>
 
     <footer class="bg-light text-center text-lg-start mt-auto">
-        <div class="text-center p-2" style="background-color: rgb(0, 0, 0)">
+        <div class="text-center p-4" style="background-color: rgb(0, 0, 0)">
             <p>Copyright &copy; 2024 Blog MSIB</p>
         </div>
     </footer>
